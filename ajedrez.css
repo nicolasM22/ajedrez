@@ -1,0 +1,16 @@
+table{
+	width:655px; 
+	height:655px; 
+	border: 30px; 
+	cellspacing:8;
+	cellspading:8;
+}
+.marron{
+	background-color:#DEB887;
+	color:white;
+}
+
+.amarillo{
+	background-color: #FFE4B5;
+	color:white;
+}
